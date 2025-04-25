@@ -49,6 +49,10 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=batajoo&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
+### LeetCode
+
+![](https://leetcard.jacoblin.cool/SanjivBatajo?ext=heatmap)
+
 ### 💻 Tech Stack
 
 <details>
